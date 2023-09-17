@@ -1,6 +1,6 @@
-import Alert from "./Alert";
-import Navebar from "./Navebar";
-import TextForm from "./TextForm";
+import Alert from "./component/Alert";
+import Navebar from "./component/Navebar";
+import TextForm from "./component/TextForm";
 import React, { useState } from "react";
 // import About from "./About";
 // import { Routes, Route } from "react-router-dom";
